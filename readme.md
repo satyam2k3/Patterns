@@ -1,4 +1,4 @@
-# DSA Pattern Questions Repository
+# DSA Pattern Questions
 
 ## Overview
 
